@@ -22,3 +22,6 @@ Sample tool to populate Lithium Community using public REST API
 * Update formBoardIdList with the BoardIds of the Forum Boards to populate
 * Update blogBoardIdList with the BoardIds of the Blog Boards to populate
 * (Optional) change the numTopics to populate
+
+## To run
+if you have eclipse, run the PopulateCommunity.java as a Java application
